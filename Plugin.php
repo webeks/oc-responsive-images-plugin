@@ -30,7 +30,7 @@ class Plugin extends PluginBase
             'description' => 'Adds srcset and sizes attributes to your images',
             'author'      => 'OFFLINE GmbH',
             'icon'        => 'icon-file-image-o',
+            'homepage'    => 'https://github.com/webeks/oc-responsive-images-plugin'
         ];
     }
-
 }
